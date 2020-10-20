@@ -1,0 +1,4 @@
+Running this requires Node.js.
+To run use the following command from inside the directory this file is in:
+
+node index.js
